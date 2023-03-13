@@ -1,1 +1,1 @@
-# server-zero
+# Server Zero
